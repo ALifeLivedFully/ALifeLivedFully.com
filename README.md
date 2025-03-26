@@ -9,6 +9,20 @@ This project is a work in progress.
 ## Site design
 Current vs desired site design and what kinds of documents i would put in each section
 
+### Features
+- authors
+    - Dani (Admin)
+- event (talks, etc)
+- post
+- project
+- publication
+- teaching
+
+**Others:**
+- _index.md
+- experience.md
+- projects.md
+
 ### Desired site design
 - Home (currently called bio)
 - 
@@ -31,3 +45,4 @@ Current vs desired site design and what kinds of documents i would put in each s
     - [ ] Update [Menus.yaml](config/_default/menus.yaml) once complete with [site design](#site-design)
     - [ ] ~~Update [Module.yaml](config/_default/module.yaml)~~
     - [X] Update [Params.yaml](config/_default/params.yaml)
+- [ ] Update other files located in `content/`
