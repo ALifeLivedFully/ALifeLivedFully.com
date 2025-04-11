@@ -32,14 +32,14 @@ sections:
           parallax: true
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Work'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm a software engineer with a passion for digging into complex systems, learning across disciplines, and building things that are both functional and meaningful. Whether I'm writing code, exploring public safety tech, or experimenting with digital tools through ALifeLivedFully, I'm driven by curiosity and a deep respect for hands-on learning.
         
-        Please reach out to collaborate 😃
+        I love exploring where technology meets real life—especially when it helps people live more freely, creatively, or securely.
+
+        If you're working on something interesting (or weird or wild), feel free to reach out—I'm always open to collaborating 😄
     design:
       columns: '1'
   - block: collection
