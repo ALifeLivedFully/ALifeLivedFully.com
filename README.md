@@ -3,7 +3,7 @@ This project is a work in progress.
 
 ## Notes
 - The buttons are made using [Buttons.Github.io](https://buttons.github.io/), the script is loaded using [This file](layouts/partials/hooks/head-end/github-button.html)
-- Config files located in `config/_default/`, lets copy them into one folder for each enviroment perhaps
+- Config files located in `config/_default/`, lets copy them into one folder for each enviroment perhaps?
 - 
 
 ## Site design

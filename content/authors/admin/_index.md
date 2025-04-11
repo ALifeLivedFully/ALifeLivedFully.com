@@ -50,15 +50,36 @@ profiles:
     label: PGP Key
 
 interests:
-  - Science
-  - Technology
-  - Engineering
-  - Art
-  - Mathematics
+  - Innovative Software Systems
+  - Human-Centered & Compassionate Design
+  - Purpose-Driven Tech
+  - Mechanical Engineering
 
 education:
-  - area: Example name
-    institution: Institution name
+  - area: CNA
+    institution: Hubert H. Humphrey Job Corps
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      This is the multi-line summary description.
+
+      This is another line.
+    button:
+      text: 'Button Example'
+      url: 'https://example.com'
+  - area: HHA
+    institution: Hubert H. Humphrey Job Corps
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      This is the multi-line summary description.
+
+      This is another line.
+    button:
+      text: 'Button Example'
+      url: 'https://example.com'
+  - area: GED
+    institution: Hubert H. Humphrey Job Corps
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -157,16 +178,18 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+  - title: 'Responsive web design'
+    url: https://www.freecodecamp.org/
+    certificate_url: https://www.freecodecamp.org/certification/alifelivedfully/responsive-web-design
+    date: '2022-11-09'
+    awarder: freecodecamp
+    icon: freecodecamp
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-I have always been interested in being self-sufficient, that desire has expressed itself in different ways through the years from learning historical and modern farming and gardening techniques, learning primitive and advanced hunting and gathering techniques, learning to repair anything electrical or mechanical, learning essential skills like wood-working. No matter the project, rest assured that I can help you and your company.
+Dani Morrison is a multidisciplinary software engineer and creative problem-solver based in Minnesota, redefining what it means to work across boundaries. With a career that spans software development, public safety, culinary arts, and stagehand production, she brings a rare blend of hands-on experience and technical fluency to every project. From kitchens to codebases and stages to secure systems, Dani thrives at the intersection of tech, transformation, and human-centered design.
+
+As the founder of ALifeLivedFully and a contributor to Spark-Y, she builds intuitive, purpose-driven digital systems that center compassion, ingenuity, and impact. Known for her intelligence, curiosity, and relentless drive, Dani uses technology as a tool for empowerment and meaningful change.
