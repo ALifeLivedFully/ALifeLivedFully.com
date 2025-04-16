@@ -74,7 +74,7 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
-    id: blog
+    id: news
     content:
       title: Recent Blogs & News
       subtitle: ''
@@ -108,6 +108,7 @@ sections:
       title: '📞 Contact me'
       subtitle: ''
       text: |-
+        I also take donations on [Ko-Fi](https://ko-fi.com/ALifeLivedFully)!
         <form id="contact-form" action="mail.php" method="POST">
         <div class="row"><div class="col-lg-6">
             <input type="text" class="form-control" maxlength="30" name="name" id="name" placeholder="Name" required="">

@@ -36,11 +36,11 @@ abstract: >
 
 # Optional short summary of the publication
 summary: >
-    Write a concise summary here (1–3 sentences).
+    Why Tech Needs More Jack-of-All-Trades: The Rise of the Generalist
 
 # Tags (keywords) to help organize your content
 tags: 
-    - Tags
+    # - tech
 
 # Display this page in the Featured widget?
 featured: true
