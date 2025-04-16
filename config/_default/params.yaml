@@ -58,3 +58,16 @@ features:
     enable: true
   privacy_pack:
     enable: false
+
+# Uncomment options below to use them.
+# extensions:
+#   cms:
+#      branch: main
+# #     publish_mode: editorial_workflow
+#      local_backend: true
+
+
+# Security
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true

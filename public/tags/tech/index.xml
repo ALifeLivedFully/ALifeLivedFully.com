@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech | ALifeLivedFully</title>
+    <link>http://localhost:1313/tags/tech/</link>
+      <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tech</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Apr 2025 02:56:21 -0500</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Tech</title>
+      <link>http://localhost:1313/tags/tech/</link>
+    </image>
+    
+    <item>
+      <title>Presentation on: Generalists in Tech</title>
+      <link>http://localhost:1313/event/generalists-in-tech/</link>
+      <pubDate>Wed, 16 Apr 2025 02:56:21 -0500</pubDate>
+      <guid>http://localhost:1313/event/generalists-in-tech/</guid>
+      <description>&lt;!-- # Generalists in Tech
+- You can add the publication&#39;s **full text** or **supplementary notes** here.  
+- You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+- You can also use [Hugo shortcodes](https://gohugo.io/content-management/shortcodes/) --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why Tech Needs More Jack-of-All-Trades: The Rise of the Generalist</title>
+      <link>http://localhost:1313/post/generalists-in-tech/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/generalists-in-tech/</guid>
+      <description>&lt;!-- # Generalists in Tech
+- You can add the post&#39;s **full text** or **supplementary notes** here.  
+- You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+- You can also use [Hugo shortcodes](https://gohugo.io/content-management/shortcodes/) --&gt;
+&lt;h2 id=&#34;_why-tech-needs-more-jack-of-all-trades-the-rise-of-the-generalist_&#34;&gt;&lt;em&gt;Why Tech Needs More Jack-of-All-Trades: The Rise of the Generalist&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;In a tech world that loves titles like “AI Specialist” and “Senior Backend Engineer,” it’s easy to overlook the people who don’t fit neatly into a box. But generalists—those curious, adaptable folks with broad skill sets—are becoming the secret sauce behind some of the most innovative and resilient teams in tech.&lt;/p&gt;
+&lt;h3 id=&#34;the-generalist-edge&#34;&gt;The Generalist Edge&lt;/h3&gt;
+&lt;p&gt;Generalists aren’t just dabblers. They’re strategic thinkers who can hop between roles, connect dots across disciplines, and communicate effectively with different stakeholders. They’re the glue in cross-functional teams, the ones who ask the “why” behind the code, and the folks who can debug both a tech stack and a team process.&lt;/p&gt;
+&lt;h3 id=&#34;when-versatility-becomes-vital&#34;&gt;When Versatility Becomes Vital&lt;/h3&gt;
+&lt;p&gt;In startups and lean teams, generalists shine. One day they&amp;rsquo;re writing front-end code, the next they’re drafting user flows or helping QA. But even in larger orgs, generalists play a vital role—filling in gaps, navigating silos, and accelerating collaboration between highly specialized departments.&lt;/p&gt;
+&lt;h3 id=&#34;resilience-in-a-changing-industry&#34;&gt;Resilience in a Changing Industry&lt;/h3&gt;
+&lt;p&gt;As tech evolves faster than job descriptions can keep up, generalists are built to pivot. They’re not just surviving in uncertain times—they’re thriving. Their broad base of knowledge allows them to spot trends early, retool quickly, and support innovation across teams.&lt;/p&gt;
+&lt;h3 id=&#34;the-takeaway&#34;&gt;The Takeaway&lt;/h3&gt;
+&lt;p&gt;Specialists are essential—but so are the bridge-builders, the cross-pollinators, the strategic floaters. It’s time tech made more room for generalists. Because in a landscape of narrow lanes, it’s the people who see the big picture who help move the whole thing forward.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Slides</title>
+      <link>http://localhost:1313/slides/generalists-in-tech/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/slides/generalists-in-tech/</guid>
+      <description>&lt;h1 id=&#34;the-overlooked-power-of-generalists-in-tech&#34;&gt;The Overlooked Power of Generalists in Tech&lt;/h1&gt;
+&lt;h3 id=&#34;why-adaptability-beats-specialization-in-a-changing-world&#34;&gt;Why adaptability beats specialization in a changing world&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;problem-statement&#34;&gt;Problem Statement&lt;/h2&gt;
+&lt;p&gt;Tech is obsessed with specialization—&lt;br&gt;
+but it’s not always what teams need.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;who-are-generalists&#34;&gt;Who Are Generalists?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Broad skill sets&lt;/li&gt;
+&lt;li&gt;Adaptable across roles&lt;/li&gt;
+&lt;li&gt;Bridge communication gaps&lt;/li&gt;
+&lt;li&gt;Fast learners, big-picture thinkers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;why-generalists-matter&#34;&gt;Why Generalists Matter&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Connect ideas across domains&lt;/li&gt;
+&lt;li&gt;Bring systems thinking&lt;/li&gt;
+&lt;li&gt;Support cross-functional teams&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;generalists-in-action&#34;&gt;Generalists in Action&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Startups&lt;/strong&gt;: wearing many hats&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enterprises&lt;/strong&gt;: filling gaps, solving problems&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Innovation&lt;/strong&gt;: breaking silos, asking better questions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;benefits-of-generalists&#34;&gt;Benefits of Generalists&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Flexibility&lt;/li&gt;
+&lt;li&gt;Resilience in market shifts&lt;/li&gt;
+&lt;li&gt;Interdisciplinary collaboration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;call-to-action&#34;&gt;Call to Action&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Rethink hiring.&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Rethink team structure.&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Make space for generalists.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

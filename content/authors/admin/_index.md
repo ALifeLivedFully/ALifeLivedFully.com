@@ -39,8 +39,8 @@ profiles:
   #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/ALifeLivedFully
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/alifelivedfully/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
@@ -84,11 +84,10 @@ education:
     date_start: 2018-08-17
     date_end: 2019-02-22
     summary: |
-      Earned a General Educational Development certificate after completing
-      coursework in math, science, language arts, and social studies.
+      Earned a General Educational Development certificate after completing coursework in math, science, language arts, and social studies.
     button:
-      text: 'Learn More About GED'
-      url: 'https://ged.com/'
+      text: 'View diploma'
+      url: 'https://www.alifelivedfully.com/uploads/GED.jpg'
 
   # - area: Law Enforcement Career Path Academy (LECPA)
   #   institution: Saint Paul Police Department
@@ -106,8 +105,7 @@ education:
     date_start: 2018-09-01
     date_end: 2020-03-15
     summary: |
-      Studied core concepts in information security, network forensics, and
-      virtualization. Hands-on experience with threat detection and system protection.
+      Studied core concepts in information security, network forensics, and virtualization. Hands-on experience with threat detection and system protection.
     button:
       text: 'Explore Program'
       url: 'https://www.century.edu/programs/cybersecurity-forensics-and-information-assurance/'
@@ -117,12 +115,10 @@ education:
     date_start: 2018-09-01
     date_end: 2020-03-15
     summary: |
-      Coursework included emergency response, fire behavior, EMT skills,
-      and public safety practices. Program was not completed but contributed
-      to foundational knowledge in crisis response and medical support.
+      Coursework included emergency response, fire behavior, EMT skills, and public safety practices. Program contributed to foundational knowledge in crisis response and medical support.
     button:
-      text: 'Fire Science Program'
-      url: 'https://www.century.edu/programs/fire-services'
+      text: 'Explore Program'
+      url: 'https://www.century.edu/programs/paramedic-fire-science/'
 
 
 work:
@@ -212,7 +208,7 @@ work:
 
   - position: Volunteer Nursing Assistant
     company_name: Amherst H. Wilder Foundation
-    company_url: 'https://www.wilder.org'
+    company_url: https://www.wilder.org
     company_logo: ''
     date_start: 2018-08-01
     date_end: 2018-10-31
@@ -382,14 +378,58 @@ awards:
     url: https://www.freecodecamp.org/
     certificate_url: https://www.freecodecamp.org/certification/alifelivedfully/responsive-web-design
     date: '2022-11-09'
-    awarder: freecodecamp
-    icon: freecodecamp
+    awarder: freeCodeCamp
+    icon: code-bracket
     summary: |
-      In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
+      Completed a hands-on certification covering HTML, CSS, Flexbox, and CSS Grid, with a focus on building accessible, responsive, and mobile-friendly websites.
 
-      First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, you'll learn modern techniques like CSS variables by building a penguin, and best practices for accessibility by building a quiz site.
+      Projects included a personal portfolio, tribute page, and multi-layout responsive designs—demonstrating real-world implementation of web standards and design best practices. This self-paced course also helped strengthen my understanding of clean code, semantic structure, and visual design across devices.
 
-      Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
+  - title: 'Certified Nursing Assistant (CNA) Certification'
+    url: https://mn.gov/dhs/
+    certificate_url: https://www.alifelivedfully.com/uploads/CNA-HHA.jpg
+    date: '2019-02-22'
+    awarder: Minnesota Department of Human Services
+    icon: healthcare
+    summary: |
+      Certification earned through the Hubert H. Humphrey Job Corps program. Trained in patient care, hygiene assistance, safety procedures, and basic medical support in residential and clinical settings.
+
+  - title: 'Home Health Aide (HHA) Certification'
+    url: https://mn.gov/dhs/
+    certificate_url: https://www.alifelivedfully.com/uploads/CNA-HHA.jpg
+    date: '2019-02-22'
+    awarder: Minnesota Department of Human Services
+    icon: house-medical
+    summary: |
+      Completed HHA training through Job Corps, with a focus on in-home patient support, daily living assistance, and promoting independent living for clients with varying physical and medical needs.
+
+  - title: 'Law Enforcement Career Path Academy (LECPA)'
+    url: https://www.stpaul.gov/departments/police/law-enforcement-career-path-academy
+    certificate_url: https://www.alifelivedfully.com/uploads/LECPA.jpg
+    date: '2019-08-15'
+    awarder: Saint Paul Police Department
+    icon: shield-check
+    summary: |
+      Participated in an immersive public safety program offering exposure to careers in law enforcement and emergency response. Developed leadership skills, teamwork, and community-focused communication through mentorship and training.
+
+  - title: 'Student of the Month – Center Support Program'
+    url: https://www.jobcorps.gov/job-corp-center/hubert-h-humphrey-job-corps-center
+    certificate_url: https://www.alifelivedfully.com/uploads/Center-Support-Student-of-the-Month.jpg
+    date: '2018-08-01'
+    awarder: Hubert H. Humphrey Job Corps
+    icon: trophy
+    summary: |
+      Recognized as Student of the Month for excellence in the Center Support training program. The program focused on administrative support, Microsoft Office Suite, office equipment, and basic workflow automation. Awarded for professionalism, skill growth, and leadership in a classroom and office setting.
+
+  - title: 'Forklift Operator Certification'
+    url: https://www.forkliftsofmn.com/
+    certificate_url: https://www.alifelivedfully.com/uploads/Forklift.jpg
+    date: '2023-11-30'
+    awarder: Forklifts of Minnesota, Inc.
+    icon: truck
+    summary: |
+      Completed hands-on training and certification in forklift operation, including safety procedures, equipment handling, and load management. Certification covers both sit-down and stand-up forklifts, meeting OSHA compliance standards for industrial equipment operation.
+
 ---
 
 ## About Me

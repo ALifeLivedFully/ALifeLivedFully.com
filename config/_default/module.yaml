@@ -7,6 +7,12 @@
 imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-analytics
+  # - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-core
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-seo
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:

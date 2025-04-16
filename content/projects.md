@@ -11,8 +11,9 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Select Projects
+      text: |
+        I enjoy creating thoughtful, impactful work across a range of mediums. Below is a selection of projects I've developed over the years-each one reflecting curiosity, adaptability, and a passion for building things that matter.
       filters:
         folders:
           - project
