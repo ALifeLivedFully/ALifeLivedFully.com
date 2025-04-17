@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Resume.pdf
     design:
       css_class: dark
       background:
@@ -134,8 +134,8 @@ sections:
         <div class="col-12">
             <textarea required="" minlength="40" maxlength="1000" class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="About the Project"></textarea>
         </div>
-        <div class="h-captcha" data-sitekey="1dc057b6-d490-4716-8976-8fb0f0e409a2">
-            <iframe src="https://newassets.hcaptcha.com/captcha/v1/33a3ef8/static/hcaptcha.html#frame=checkbox&amp;id=030ushpe2qle&amp;host=alifelivedfully.com&amp;sentry=undefined&amp;reportapi=https%3A%2F%2Faccounts.hcaptcha.com&amp;recaptchacompat=true&amp;custom=false&amp;tplinks=on&amp;pstissuer=https%3A%2F%2Fpst-issuer.hcaptcha.com&amp;sitekey=1dc057b6-d490-4716-8976-8fb0f0e409a2&amp;theme=dark&amp;origin=https%3A%2F%2Falifelivedfully.com" tabindex="0" frameborder="0" scrolling="no" title="Widget containing checkbox for hCaptcha security challenge" data-hcaptcha-widget-id="030ushpe2qle" data-hcaptcha-response="" style="pointer-events: auto; width: 303px; height: 78px; overflow: hidden;"></iframe>
+        <div class="h-captcha" data-sitekey="bf3e6e94-bf16-474c-9bc0-f0180430e490">
+            <iframe src="https://newassets.hcaptcha.com/captcha/v1/33a3ef8/static/hcaptcha.html#frame=checkbox&amp;id=030ushpe2qle&amp;host=alifelivedfully.com&amp;sentry=undefined&amp;reportapi=https%3A%2F%2Faccounts.hcaptcha.com&amp;recaptchacompat=true&amp;custom=false&amp;tplinks=on&amp;pstissuer=https%3A%2F%2Fpst-issuer.hcaptcha.com&amp;sitekey=bf3e6e94-bf16-474c-9bc0-f0180430e490&amp;theme=dark&amp;origin=https%3A%2F%2Falifelivedfully.com" tabindex="0" frameborder="0" scrolling="no" title="Widget containing checkbox for hCaptcha security challenge" data-hcaptcha-widget-id="030ushpe2qle" data-hcaptcha-response="" style="pointer-events: auto; width: 303px; height: 78px; overflow: hidden;"></iframe>
             <textarea id="g-recaptcha-response-030ushpe2qle" name="g-recaptcha-response" style="display: none;"></textarea>
             <textarea id="h-captcha-response-030ushpe2qle" name="h-captcha-response" style="display: none;"></textarea>
         </div>
@@ -145,6 +145,7 @@ sections:
             <p id="contact-form-status"></p>
         </div>
         </form>
+        <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
     design:
       columns: '1'
   # - block: cta-button-list
