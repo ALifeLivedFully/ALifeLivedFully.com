@@ -110,12 +110,35 @@ sections:
       text: |-
         I also take donations on [Ko-Fi](https://ko-fi.com/ALifeLivedFully)!
 
-        <form action="mail.php" method="POST">
-          <input type="text" class="text" value="" placeholder="Your full name" name="name" required >
-          <input type="text" class="text" value="" placeholder="Email adress" name="email" required >
-          <textarea type="text" placeholder="Message..." required name="message"></textarea>
-          <div class="h-captcha" data-sitekey="bf3e6e94-bf16-474c-9bc0-f0180430e490"></div>
-          <input type="submit" name="submit" value="SUBMIT">
+        <form id="contact-form" action="mail.php" method="POST">
+        <div class="row"><div class="col-lg-6">
+            <input type="text" class="form-control" maxlength="30" name="name" id="name" placeholder="Name" required="">
+        </div>
+        <div class="col-lg-6">
+            <input type="text" minlength="10" maxlength="20" class="form-control" name="phone" id="phone" placeholder="Phone Number">
+        </div>
+        <div class="col-lg-6">
+            <input type="email" class="form-control" minlength="6" maxlength="100" name="email" id="email" placeholder="Email" required="">
+        </div>
+        <div class="col-lg-6">
+            <div class="select-wrapper">
+                <select class="form-control" id="projectType" name="project-type" required="">
+                    <option value="" selected="" disabled="" hidden="">Project Type</option>
+                    <option value="Web Development">Web Development</option>
+                    <option value="Systems Automation">Systems Automation</option>
+                    <option value="Self Sufficiency Education">Self Sufficiency Education</option>
+                    <option value="Sustainability Education">Sustainability Education</option>
+                    <option value="Other">Other</option>
+                </select>
+            </div>
+        </div>
+        <div class="col-12">
+            <textarea required="" minlength="40" maxlength="1000" class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="About the Project"></textarea>
+        </div>
+        <div class="h-captcha" data-theme="dark" data-sitekey="bf3e6e94-bf16-474c-9bc0-f0180430e490"></div>
+        <div class="col-13">
+            <button name="submit" type="submit" class="btn btn-primary" id="contact-form-button"><span class="btn-area"><span data-text="Send Message">Send Message</span></span></button>
+        </div>
         </form>
 
         <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
