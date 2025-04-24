@@ -39,7 +39,7 @@ sections:
         
         I love exploring where technology meets real life—especially when it helps people live more freely, creatively, or securely.
 
-        If you're working on something interesting (or weird or wild), feel free to reach out—I'm always open to collaborating 😄
+        If you're working on something interesting (or weird or wild), feel free to [reach out](/#contact-me)-I'm always open to collaborating 😄
     design:
       columns: '1'
   - block: collection
@@ -105,12 +105,13 @@ sections:
   - block: markdown
     id: contact-me
     content:
-      title: '📞 Contact me'
+      title: '📞 Contact me 📨'
       subtitle: ''
       text: |-
-        I also take donations on [Ko-Fi](https://ko-fi.com/ALifeLivedFully)!
+        I also accept donations on [Ko-Fi](https://ko-fi.com/ALifeLivedFully)!
 
-        <form id="contact-form" action="mail.php" method="POST">
+        <div style="text-align: center; margin-top: 50px;">
+        <form id="contact-form" action="mail.php" method="POST" style="display: inline-block;">
         <div class="row"><div class="col-lg-6">
             <input type="text" class="form-control" maxlength="30" name="name" id="name" placeholder="Name" required="">
         </div>
@@ -140,6 +141,7 @@ sections:
             <button name="submit" type="submit" class="btn btn-primary" id="contact-form-button"><span class="btn-area"><span data-text="Send Message">Send Message</span></span></button>
         </div>
         </form>
+        </div>
 
         <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
     design:
