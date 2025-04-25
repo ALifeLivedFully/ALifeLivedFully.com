@@ -105,10 +105,10 @@ sections:
   - block: markdown
     id: contact-me
     content:
-      title: '📞 Contact me 📨'
+      title: '📞 Contact me 📞'
       subtitle: ''
       text: |-
-        I also accept donations on [Ko-Fi](https://ko-fi.com/ALifeLivedFully)!
+        I accept donations on [Ko-Fi](https://ko-fi.com/ALifeLivedFully) and you can find my socials [Here](https://links.alifelivedfully.com)
 
         <div style="text-align: center; margin-top: 50px;">
         <form id="contact-form" action="mail.php" method="POST" style="display: inline-block;">
