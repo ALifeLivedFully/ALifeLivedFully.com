@@ -127,7 +127,7 @@ work:
     company_url: 'https://spark-y.org'
     company_logo: ''
     date_start: 2023-03-01
-    date_end: ''
+    date_end: 2025-03-01
     summary: |
       Responsibilities include:
       - Developed web-based tools to support educational and sustainability initiatives
