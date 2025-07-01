@@ -87,7 +87,7 @@ education:
       Earned a General Educational Development certificate after completing coursework in math, science, language arts, and social studies.
     button:
       text: 'View diploma'
-      url: 'https://www.alifelivedfully.com/uploads/GED.jpg'
+      url: 'https://www.alifelivedfully.com/certification/GED.jpg'
 
   # - area: Law Enforcement Career Path Academy (LECPA)
   #   institution: Saint Paul Police Department
@@ -387,7 +387,7 @@ awards:
 
   - title: 'Certified Nursing Assistant (CNA) Certification'
     url: https://mn.gov/dhs/
-    certificate_url: https://www.alifelivedfully.com/uploads/CNA-HHA.jpg
+    certificate_url: https://www.alifelivedfully.com/certification/CNA-HHA.jpg
     date: '2019-02-22'
     awarder: Minnesota Department of Human Services
     icon: healthcare
@@ -396,7 +396,7 @@ awards:
 
   - title: 'Home Health Aide (HHA) Certification'
     url: https://mn.gov/dhs/
-    certificate_url: https://www.alifelivedfully.com/uploads/CNA-HHA.jpg
+    certificate_url: https://www.alifelivedfully.com/certification/CNA-HHA.jpg
     date: '2019-02-22'
     awarder: Minnesota Department of Human Services
     icon: house-medical
@@ -405,7 +405,7 @@ awards:
 
   - title: 'Law Enforcement Career Path Academy (LECPA)'
     url: https://www.stpaul.gov/departments/police/law-enforcement-career-path-academy
-    certificate_url: https://www.alifelivedfully.com/uploads/LECPA.jpg
+    certificate_url: https://www.alifelivedfully.com/certification/LECPA.jpg
     date: '2019-08-15'
     awarder: Saint Paul Police Department
     icon: shield-check
@@ -414,7 +414,7 @@ awards:
 
   - title: 'Student of the Month – Center Support Program'
     url: https://www.jobcorps.gov/job-corp-center/hubert-h-humphrey-job-corps-center
-    certificate_url: https://www.alifelivedfully.com/uploads/Center-Support-Student-of-the-Month.jpg
+    certificate_url: https://www.alifelivedfully.com/certification/Center-Support-Student-of-the-Month.jpg
     date: '2018-08-01'
     awarder: Hubert H. Humphrey Job Corps
     icon: trophy
@@ -423,12 +423,22 @@ awards:
 
   - title: 'Forklift Operator Certification'
     url: https://www.forkliftsofmn.com/
-    certificate_url: https://www.alifelivedfully.com/uploads/Forklift.jpg
+    certificate_url: https://www.alifelivedfully.com/certification/Forklift.jpg
     date: '2023-11-30'
     awarder: Forklifts of Minnesota, Inc.
     icon: truck
     summary: |
-      Completed hands-on training and certification in forklift operation, including safety procedures, equipment handling, and load management. Certification covers both sit-down and stand-up forklifts, meeting OSHA compliance standards for industrial equipment operation.
+      Completed training and certification in forklift operation, including safety procedures, equipment handling, and load management. Certification covers both sit-down and stand-up forklifts, meeting OSHA compliance standards for industrial equipment operation.
+
+  - title: 'Religious and Cultural Literacy and Competency in Disaster'
+    url: https://training.fema.gov/is/courseoverview.aspx?code=IS-505
+    certificate_url: https://www.alifelivedfully.com/certification/FEMA_Religious_Literacy.jpg
+    date: '2019-04-17'
+    awarder: FEMA (Emergency Management Institute)
+    icon: hands-praying
+    summary: |
+      Completed FEMA IS-505 course on religious and cultural literacy and competency in disaster response. Training emphasized inclusive emergency management practices, respectful engagement with diverse faith communities, and awareness of religious and cultural considerations in disaster scenarios.
+
 
 ---
 
