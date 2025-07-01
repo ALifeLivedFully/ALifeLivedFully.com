@@ -432,7 +432,7 @@ awards:
 
   - title: 'Religious and Cultural Literacy and Competency in Disaster'
     url: https://training.fema.gov/is/courseoverview.aspx?code=IS-505
-    certificate_url: https://www.alifelivedfully.com/certification/FEMA_Religious_Literacy.jpg
+    certificate_url: https://www.alifelivedfully.com/certification/FEMA-Religious-and-Cultural-Literacy-and-Competency-in-Disaster.png
     date: '2019-04-17'
     awarder: FEMA (Emergency Management Institute)
     icon: hands-praying
