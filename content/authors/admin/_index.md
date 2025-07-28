@@ -362,12 +362,45 @@ skills:
 #         icon: camera
 
 languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 0
-  - name: Arabic
-    percent: 0
+# - name: Rust
+#   percent: 0
+- name: C
+  percent: 20
+# - name: C#
+#   percent: 0
+# - name: C++
+#   percent: 0
+# - name: GoLang
+#   percent: 0
+- name: Shell
+  percent: 10
+# - name: Python
+#   percent: 0
+- name: Java
+  percent: 60
+- name: JavaScript
+  percent: 10
+- name: Solidity
+  percent: 20
+- name: PHP
+  percent: 30
+# - name: Haskell
+#   percent: 0
+# - name: Zig
+#   percent: 0
+# - name: TypeScript
+#   percent: 0
+# - name: Kotlin
+#   percent: 0
+# - name: Swift
+#   percent: 0
+- name: SQL
+  percent: 20
+# - name: Dart
+#   percent: 0
+# - name: Assembly
+#   percent: 0
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
