@@ -1,15 +1,13 @@
 ---
-title: Example Slides
-summary: An introduction to using Wowchemy's Slides feature.
+title: The Overlooked Power of Generalists in Tech
+summary: Why adaptability beats specialization in a changing world
 authors: []
-tags: ['tech']
+tags:
+  - tech
 categories: []
-date: '2019-02-05'
+date: 2019-02-05
 slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
-  # Choose a code highlighting style (see Hugo docs on Chroma)
-  #   Light style: github-light. Dark style: dracula (default).
   highlight_style: dracula
 ---
 
