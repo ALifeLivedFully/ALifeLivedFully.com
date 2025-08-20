@@ -16,7 +16,7 @@ sections:
         Here's a few skills im proud of!
       filters:
         folders:
-          - skill
+          - skills
     design:
       view: article-grid
       fill_image: false
