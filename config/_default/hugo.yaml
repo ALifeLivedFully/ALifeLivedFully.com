@@ -44,6 +44,12 @@ imaging:
 timeout: 600000
 taxonomies:
   author: authors
+  event: events
+  project: projects
+  publication: publications
+  skill: skills
+  slideshow: slideshows
+  experience: experiences
   tag: tags
   publication_type: publication_types
 markup:
