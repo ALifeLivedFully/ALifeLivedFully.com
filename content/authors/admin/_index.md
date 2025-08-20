@@ -275,6 +275,21 @@ skills:
         percent: 
         icon: shield-check
 
+      - name: Software Development
+        description: 'Experienced in building, maintaining, and iterating on systems and applications.'
+        percent: 
+        icon: code-bracket
+
+      - name: Web Design & Development
+        description: 'Proficient in responsive design, user-friendly interfaces, and accessible layouts.'
+        percent: 
+        icon: code-bracket
+
+      - name: Cybersecurity & IT Foundations
+        description: 'Background in security, networking, and systems through coursework and self-study.'
+        percent: 
+        icon: shield-check
+
   - name: Soft Skills
     color: '#6ccff6'
     color_border: '#3da9fc'
