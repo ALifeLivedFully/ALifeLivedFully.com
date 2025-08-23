@@ -35,12 +35,15 @@ profiles:
   #   label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/ALifeLivedFully
+    label: Twitter
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/ALifeLivedFully
+    label: Github
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alifelivedfully/
+    label: LinkedIn
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
@@ -50,10 +53,10 @@ profiles:
     label: PGP Key
 
 interests:
-  - Innovative Software Systems
-  - Human-Centered & Compassionate Design
-  - Purpose-Driven Tech
-  - Mechanical Engineering
+  - Electrical & Software Engineering
+  - Practical, Hands-On Problem Solving
+  - Mechanical Systems & Small Engine Repair
+  - Renewable Energy Systems
 
 education:
   # - area: CNA (Certified Nursing Assistant)
@@ -475,6 +478,5 @@ awards:
 
 ---
 
-## About Me
-
+### About Me
 I'm Dani, an engineering enthusiast turned engineering student. Currently I'm focused on an electrical engineering pathway but I'm still considering my options. The academic achievements I'm most proud of is holding certifications in several industries such as technology, healthcare, law enforcement, and even disaster response. My previous engineering related experience centers around software engineering but I also have experience with car security systems and small engine repair. In my time at century college I was the founder and president of the social change club, served as Co-President of the LGBT Club, and was a member of the student senate.
