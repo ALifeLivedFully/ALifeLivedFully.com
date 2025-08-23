@@ -275,21 +275,6 @@ skills:
         percent: 
         icon: shield-check
 
-      - name: Software Development
-        description: 'Experienced in building, maintaining, and iterating on systems and applications.'
-        percent: 
-        icon: code-bracket
-
-      - name: Web Design & Development
-        description: 'Proficient in responsive design, user-friendly interfaces, and accessible layouts.'
-        percent: 
-        icon: code-bracket
-
-      - name: Cybersecurity & IT Foundations
-        description: 'Background in security, networking, and systems through coursework and self-study.'
-        percent: 
-        icon: shield-check
-
   - name: Soft Skills
     color: '#6ccff6'
     color_border: '#3da9fc'
@@ -492,6 +477,4 @@ awards:
 
 ## About Me
 
-Dani Morrison is a multidisciplinary software engineer and creative problem-solver based in Minnesota, redefining what it means to work across boundaries. With a career that spans software development, public safety, culinary arts, and stagehand production, she brings a rare blend of hands-on experience and technical fluency to every project. From kitchens to codebases and stages to secure systems, Dani thrives at the intersection of tech, transformation, and human-centered design.
-
-As the founder of ALifeLivedFully and a contributor to Spark-Y, she builds intuitive, purpose-driven digital systems that center compassion, ingenuity, and impact. Known for her intelligence, curiosity, and relentless drive, Dani uses technology as a tool for empowerment and meaningful change.
+I'm Dani, an engineering enthusiast turned engineering student. Currently I'm focused on an electrical engineering pathway but I'm still considering my options. The academic achievements I'm most proud of is holding certifications in several industries such as technology, healthcare, law enforcement, and even disaster response. My previous engineering related experience centers around software engineering but I also have experience with car security systems and small engine repair. In my time at century college I was the founder and president of the social change club, served as Co-President of the LGBT Club, and was a member of the student senate.

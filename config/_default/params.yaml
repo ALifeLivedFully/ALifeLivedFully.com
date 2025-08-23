@@ -70,7 +70,7 @@ features:
 extensions:
   decap_cms:
     branch: main
-#     publish_mode: editorial_workflow
+    publish_mode: editorial_workflow
     local_backend: true
 
 

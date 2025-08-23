@@ -5,12 +5,21 @@
     <link>http://localhost:1313/author/dani/</link>
       <atom:link href="http://localhost:1313/author/dani/index.xml" rel="self" type="application/rss+xml" />
     <description>Dani</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Apr 2025 02:56:21 -0500</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Aug 2025 00:29:00 -0500</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/dani/avatar_hu16337309484971147805.jpg</url>
       <title>Dani</title>
       <link>http://localhost:1313/author/dani/</link>
     </image>
+    
+    <item>
+      <title>Portfolio site</title>
+      <link>http://localhost:1313/project/portfolio-site/</link>
+      <pubDate>Wed, 20 Aug 2025 00:29:00 -0500</pubDate>
+      <guid>http://localhost:1313/project/portfolio-site/</guid>
+      <description>&lt;p&gt;Portfolio site made using Hugo, version control on GitHub, etc.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Presentation on: Generalists in Tech</title>

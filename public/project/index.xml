@@ -5,12 +5,30 @@
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
       <link>http://localhost:1313/project/</link>
     </image>
+    
+    <item>
+      <title>testy</title>
+      <link>http://localhost:1313/project/testy/</link>
+      <pubDate>Wed, 20 Aug 2025 00:34:00 -0500</pubDate>
+      <guid>http://localhost:1313/project/testy/</guid>
+      <description>&lt;p&gt;boddyy&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Portfolio site</title>
+      <link>http://localhost:1313/project/portfolio-site/</link>
+      <pubDate>Wed, 20 Aug 2025 00:29:00 -0500</pubDate>
+      <guid>http://localhost:1313/project/portfolio-site/</guid>
+      <description>&lt;p&gt;Portfolio site made using Hugo, version control on GitHub, etc.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
