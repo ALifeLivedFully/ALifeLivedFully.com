@@ -1,6 +1,15 @@
 backend:
   name: git-gateway
   branch: main
+  commit_messages:
+    create: Create {{collection}} “{{slug}}”
+    update: Update {{collection}} “{{slug}}”
+    delete: Delete {{collection}} “{{slug}}”
+    uploadMedia: Upload “{{path}}”
+    deleteMedia: Delete “{{path}}”
+    openAuthoring: '{{message}}'
+publish_mode: editorial_workflow
+display_url: https://alifelivedfully.com
 media_folder: "static/images" # Folder where user uploaded files should go
 public_folder: "images"
 collections:
