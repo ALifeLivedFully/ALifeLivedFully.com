@@ -1,3 +1,4 @@
+# https://decapcms.org/docs/configuration-options/
 backend:
   name: git-gateway
   branch: main
@@ -9,6 +10,8 @@ backend:
     deleteMedia: Delete “{{path}}”
     openAuthoring: '{{message}}'
 publish_mode: editorial_workflow
+show_preview_links: true
+search: true
 display_url: https://alifelivedfully.com
 media_folder: "static/images" # Folder where user uploaded files should go
 public_folder: "images"
@@ -73,6 +76,7 @@ collections:
     public_folder: ""
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
-      - { label: "Event Name", name: "event", widget: "string" }
-      - { label: "Event URL", name: "event_url", widget: "string" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Name", name: "event", widget: "string" }
+      - { label: "URL", name: "event_url", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
