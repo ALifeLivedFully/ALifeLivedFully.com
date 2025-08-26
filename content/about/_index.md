@@ -5,7 +5,7 @@ draft: false
 authors:
   - admin
 ---
-![](images/20241218_222337.jpg)
+![](static/images/20241218_222337.jpg)
 
 ## Background
 
