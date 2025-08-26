@@ -5,9 +5,7 @@ draft: false
 authors:
   - admin
 ---
-![](images/dani.jpeg)
-
-
+![](images/20241218_222337.jpg)
 
 ## Background
 
