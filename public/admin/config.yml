@@ -1,21 +1,21 @@
+# https://decapcms.org/docs/configuration-options/
 backend:
   name: git-gateway
   branch: main
-media_folder: "static/images" # Folder where user uploaded files should go
-public_folder: "images"
+  commit_messages:
+    create: Create {{collection}} “{{slug}}”
+    update: Update {{collection}} “{{slug}}”
+    delete: Delete {{collection}} “{{slug}}”
+    uploadMedia: Upload “{{path}}”
+    deleteMedia: Delete “{{path}}”
+    openAuthoring: '{{message}}'
+publish_mode: editorial_workflow
+show_preview_links: true
+search: true
+display_url: https://alifelivedfully.com
+media_folder: "" # Folder where user uploaded files should go  # was static/uploads
+public_folder: "" # was uploads
 collections:
-  - name: "posts" # Used in routes, e.g., /admin/collections/post
-    label: "Posts" # Used in the UI
-    folder: "content/posts" # The path to the folder where the documents are stored
-    path: "{{slug}}/index"
-    media_folder: "" # Save images in the post's own folder instead of the static folder
-    public_folder: ""
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields for each document, usually in front matter
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Featured Image", name: "image", widget: "image" }
-      - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"
     files:
@@ -40,4 +40,44 @@ collections:
         name: "about"
         fields:
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "text" }
+          - { label: "Body", name: "body", widget: "markdown" }
+  - name: "posts" # Used in routes, e.g., /admin/collections/post
+    label: "Posts" # Used in the UI
+    folder: "content/posts" # The path to the folder where the documents are stored
+    preview_path: "{{slug}}/index"
+    path: "{{slug}}/index"
+    media_folder: "" # Save images in the post's own folder instead of the static folder
+    public_folder: ""
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Featured Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "authors" # Used in routes, e.g., /admin/collections/post
+    label: "Authors" # Used in the UI
+    folder: "content/authors" # The path to the folder where the documents are stored
+    path: "{{slug}}/index"
+    media_folder: "" # Save images in the post's own folder instead of the static folder
+    public_folder: ""
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - { label: "Display Name", name: "title", widget: "string" }
+      - { label: "Name Pronunciation", name: "name_pronunciation", widget: "string" }
+      - { label: "First Name", name: "first_name", widget: "string" }
+      - { label: "Last Name", name: "last_name", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Featured Image", name: "image", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "events" # Used in routes, e.g., /admin/collections/post
+    label: "Events" # Used in the UI
+    folder: "content/event" # The path to the folder where the documents are stored
+    path: "{{slug}}/index"
+    media_folder: "" # Save images in the post's own folder instead of the static folder
+    public_folder: ""
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Name", name: "event", widget: "string" }
+      - { label: "URL", name: "event_url", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

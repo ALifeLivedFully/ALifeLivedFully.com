@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-08-25T18:49:54+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/posts/testng/</loc>
+    <lastmod>2025-08-25T18:49:54+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/project/testy/</loc>
     <lastmod>2025-08-20T00:34:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -114,10 +122,10 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/admin/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/events/</loc>
