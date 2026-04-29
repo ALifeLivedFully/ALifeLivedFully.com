@@ -1,5 +1,5 @@
 # Repo for [ALifeLivedFully.com](https://ALifeLivedFully.com)  
-This project is a work in progress.  
+This project is a work in progress. 
 
 ## Notes
 - The buttons are made using [Buttons.Github.io](https://buttons.github.io/), the script is loaded using [This file](layouts/partials/hooks/head-end/github-button.html)
